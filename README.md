@@ -2,6 +2,11 @@
 
 A Flutter project that helps the community, one call at a time.
 
+## To Reproduce
+Install and set up Flutter in a macOS environment
+Open xcode simulator `open -a Simulator`
+Navigate to app folder and run project `Flutter run`
+
 ## What it does
 Locall helps members of a neighbourhood get in contact and share any tasks that they may need help with. Users can browse through these tasks, and offer to help their neighbours. Those who post the tasks can also choose to offer payment for these services. It's hard to trust just anyone to help you out with daily tasks, but you can always count on your neighbours!
 
